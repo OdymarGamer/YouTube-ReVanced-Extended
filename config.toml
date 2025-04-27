@@ -1,12 +1,13 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-patches-source = "anddea/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 patches-version = "dev"
 
 [YouTube-Extended]
-app-name = "YouTube"
+app-name = "Ody's YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 version = "20.12.46"
