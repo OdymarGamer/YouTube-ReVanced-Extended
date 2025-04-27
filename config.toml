@@ -7,7 +7,7 @@ cli-source = "inotia00/revanced-cli"
 patches-version = "dev"
 
 [YouTube-Extended]
-app-name = "Ody's YouTube"
+app-name = "Odys YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 version = "20.12.46"
