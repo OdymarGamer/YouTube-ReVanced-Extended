@@ -1,7 +1,7 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-integrations-source = "inotia00/revanced-integrations"
+#integrations-source = "inotia00/revanced-integrations"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 patches-version = "dev"
