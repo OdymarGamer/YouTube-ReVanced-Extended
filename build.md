@@ -1,4 +1,4 @@
-YouTube-Extended: 20.12.46  
+YouTube-Extended: 20.16.40  
 YouTube-Music-Extended (arm64-v8a): 8.12.53  
 YouTube-Music-Extended (arm-v7a): 8.12.53  
 
@@ -9,8 +9,5 @@ Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouT
 [YouTube-ReVanced-Extended](https://github.com/OdymarGamer/YouTube-ReVanced-Extended)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.6.2.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
-
-Patches: inotia00/patches-5.6.2.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)  
+Patches: anddea/patches-3.10.0-dev.1.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.10.0-dev.1)  

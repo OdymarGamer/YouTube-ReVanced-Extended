@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches: 5.6.2)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/OdymarGamer/YouTube-ReVanced-Extended/releases/download/9/odys-youtube-revanced-extended-magisk-v20.12.46-all.zip",
+  "version": "v20.16.40 (patches: dev.1)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/OdymarGamer/YouTube-ReVanced-Extended/releases/download/10/odys-youtube-revanced-extended-magisk-v20.16.40-all.zip",
   "changelog": "https://raw.githubusercontent.com/OdymarGamer/YouTube-ReVanced-Extended/update/build.md"
 }
