@@ -2,7 +2,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 parallel-jobs = 1
 
 #integrations-source = "inotia00/revanced-integrations"
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 patches-version = "dev"
 #cli-version = "dev"
@@ -11,7 +11,7 @@ patches-version = "dev"
 app-name = "Odys YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-version = "20.12.46"
+version = "20.16.40"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom header for YouTube'"
 included-patches = "'Visual preferences icons for YouTube' 'Return YouTube Username'"
